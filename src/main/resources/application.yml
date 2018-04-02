@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class: org.postgresql.Driver
+    url: "jdbc:postgresql://postgresql.test-ws.svc/wsdb"
+    username: wsdev
+    password: wspassword
